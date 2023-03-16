@@ -31,9 +31,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sablje/Sablje/blob/output/snake.svg" alt="Snake animation" />
-
-###
